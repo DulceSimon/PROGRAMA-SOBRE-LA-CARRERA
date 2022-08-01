@@ -1,0 +1,17 @@
+class material:
+    def__init__(self):
+    self.precio= 50.00
+    print "nombre del piedrin"
+   
+   def hablar(self,mensaje):
+   print mensaje
+ 
+ piedrin piedra azul = material()
+ piedrin caliza = material()
+ 
+ print "El piedrin piedra azul vale", nombre del piedrin.precio
+ print "El piedrin caliza vale", nombre del piedrin.precio
+ 
+ piedrin piedra azul.hablar("Vale")
+ 
+ piedrin caliza.hablar("vale")
